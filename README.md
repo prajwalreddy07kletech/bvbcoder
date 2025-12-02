@@ -2,5 +2,5 @@
 this is my first repositary. 
 <br>
 owner = prajwal biradar
-<bt>
+<br>
 my friend is athrav adake
